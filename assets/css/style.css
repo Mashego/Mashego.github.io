@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(34, 39, 43, 0.8);
+  background: #fff;
 }
 
 #header .logo {
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #5697d0;
   transition: 0.3s;
   font-size: 12px;
   text-transform: uppercase;
@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5697d0;
+  color: #cc66ff;
 }
 
 .nav-menu .drop-down ul {
